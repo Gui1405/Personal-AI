@@ -43,7 +43,7 @@ Também é necessário garantir:
    ```
 4. Execute o arquivo Python:
    ```sh
-   python chatbot.py
+   python personal_ai.py
    ```
 5. Selecione um modelo de IA na interface e comece a interagir com o chatbot.
 
